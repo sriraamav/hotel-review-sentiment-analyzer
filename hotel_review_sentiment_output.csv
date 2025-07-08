@@ -1,0 +1,21 @@
+review_id,review,Predicted_Sentiment,Predicted_Topics
+1,The room was clean and the staff was very helpful.,Positive,"staff, cleanliness, room"
+2,Breakfast was cold and the check-in process was slow.,Negative,"breakfast, check-in"
+3,"Amazing view from the balcony, and excellent room service.",Positive,"room, service, balcony"
+4,Room smelled bad and there was no hot water.,Negative,"room, hot water, smell"
+5,The food was delicious and the location was perfect.,Positive,"food, location"
+6,Noisy at night and the AC didn’t work properly.,Negative,"noise, air conditioning"
+7,Very friendly staff and quick check-in.,Positive,"staff, check-in"
+8,The bathroom was dirty and the bed was uncomfortable.,Negative,"bed, bathroom"
+9,"Great experience overall, especially the spa and pool.",Positive,"pool, spa"
+10,"Average stay, nothing special.",Neutral,"location, service, check-in, room"
+11,Wi-Fi was fast and the concierge was helpful.,Positive,"staff, Wi-Fi"
+12,Elevator was broken and towels were not replaced daily.,Negative,General
+13,Comfortable bed and tasty breakfast.,Positive,"bed, breakfast, service"
+14,Long wait at reception and rude staff.,Negative,"staff, check-in, reception"
+15,Loved the rooftop bar and the cleanliness of the room.,Positive,"room, cleanliness, staff"
+16,The minibar was empty and the TV remote didn’t work.,Negative,"TV, minibar, remote"
+17,Exceptional service and beautiful interior design.,Positive,"service, staff, design"
+18,"The room key kept malfunctioning, very annoying.",Negative,General
+19,Easy check-out and staff offered great local tips.,Positive,General
+20,The mattress was hard and the air conditioning was noisy.,Negative,"mattress, air conditioning"
