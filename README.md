@@ -35,7 +35,7 @@ This project uses **IBM Watsonx.ai** to analyze hotel customer reviews, classify
 
 ## 👨‍💻 Author
 
-**Akash T S M**  
+**SRIRAAM A V**  
 Student | AI & ML Explorer
 
 ---
